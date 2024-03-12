@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "usuario_id": 1,
+      "nombre": "Jorge",
+      "apellidos": "Labra Soto",
+      "nombre_usuario": "Jorge-labra-1",
+      "email": "jorgelabra@gmail.com",
+      "nacionalidad": "Chilena",
+      "ciudad": "Santiago",
+      "fecha_nacimiento": "15-11-1982",
+      "rut": "15.506.909-0",
+      "cargo": "Community Manager",
+      "area": "Marketing Digital",
+      "imagen_perfil": "https://raw.githubusercontent.com/mjarancibiasuazo/images-users/main/jorge.png"
+    },
+    {
+      "usuario_id": 2,
+      "nombre": "Fernando",
+      "apellidos": "Vargas Perez",
+      "nombre_usuario": "Fer-Vargas-2",
+      "email": "fervargas@gmail.com",
+      "nacionalidad": "Chilena",
+      "ciudad": "Santiago",
+      "fecha_nacimiento": "14-05-1990",
+      "rut": "20.098.065-8",
+      "cargo": "Desarrollador Web",
+      "area": "Informática",
+      "imagen_perfil": "https://raw.githubusercontent.com/mjarancibiasuazo/images-users/main/fernando.png"
+    },
+    {
+      "usuario_id": 3,
+      "nombre": "Camila",
+      "apellidos": "Bianchi Jabbas",
+      "nombre_usuario": "Cami-Bianchi-3",
+      "email": "camibianchi@gmail.com",
+      "nacionalidad": "Chilena",
+      "ciudad": "Santiago",
+      "fecha_nacimiento": "12-10-1982",
+      "rut": "15.876.456-2",
+      "cargo": "Testing",
+      "area": "Informática",
+      "imagen_perfil": "https://raw.githubusercontent.com/mjarancibiasuazo/images-users/main/camila.png"
+    },
+    {
+      "usuario_id": 4,
+      "nombre": "Francisca",
+      "apellidos": "Palacios Vargas",
+      "nombre_usuario": "fran-palacios-4",
+      "email": "franciscap@gmail.com",
+      "nacionalidad": "Chilena",
+      "ciudad": "Santiago",
+      "fecha_nacimiento": "10-10-1990",
+      "rut": "15.090.457-2",
+      "cargo": "Analista TI",
+      "area": "Informática",
+      "imagen_perfil": "https://raw.githubusercontent.com/mjarancibiasuazo/images-users/main/francisca.png"
+    }
+  ]
+}
